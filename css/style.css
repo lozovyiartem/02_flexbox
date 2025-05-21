@@ -1,5 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 body {
 	font-family: arial;
+	font size: 18px;
 	background-color:rgb(173, 230, 181);
 	height:100hv;
 	display:flex;
